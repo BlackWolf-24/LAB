@@ -1,0 +1,13 @@
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
