@@ -11,3 +11,5 @@ C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\De
 C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
 C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
 C:\Users\Ilya0\OneDrive\Рабочий стол\Programming\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\1\Source\Repos\BlackWolf-24\LAB\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\1\Source\Repos\BlackWolf-24\LAB\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
